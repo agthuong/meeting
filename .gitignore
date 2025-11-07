@@ -1,0 +1,9 @@
+log
+*.log
+.DS_Store
+npm-debug.log*
+src/assets/config.js
+.idea/
+dist
+node_modules/
+yarn.lock
